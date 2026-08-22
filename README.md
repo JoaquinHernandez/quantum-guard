@@ -29,3 +29,7 @@ It defends against **"Harvest Now, Decrypt Later" (HNDL)** threats by verifying 
 git clone [https://github.com/yourusername/quantum-guard.git](https://github.com/yourusername/quantum-guard.git)
 cd quantum-guard
 pip install -e .
+
+
+Run and scan
+quantum-guard cloudflare.com
